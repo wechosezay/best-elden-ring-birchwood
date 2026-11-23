@@ -199,4 +199,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Elden Ring · Updated 2026-11-22 · Shared under the MIT License*
+*Elden Ring · Updated 2026-11-23 · Shared under the MIT License*
